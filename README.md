@@ -1,4 +1,4 @@
-﻿# Jason Wu
+﻿﻿# Jason Wu
 
 - Location： 竹北市
 - E-mail： jasonwu070721@gmail.com
@@ -7,13 +7,17 @@
 
 ---
 
-我是吳郁樟(Jason Wu), 一位經驗豐富的軟體工程師, 對於軟體開發工作充滿熱情, 以下是我的工作經歷：
+我是吳郁樟(Jason Wu), 一位經驗豐富的軟體工程師, 對於軟體開發工作充滿熱情, 善於跨部門溝通, 以下是我的工作經歷：
 
 ### Specialty :
 
 - Side project(Github):
 
   - https://github.com/JasonWu070721
+
+- TOEIC:
+
+  - 750
 
 - SOC:
 
@@ -58,7 +62,7 @@
 - I/O:
   - UART, SPI, I2C, 4G LTE, GPS, USB, GPIO, Ethernet, WDT, FLASH, SD/eMMC, PCIe, RS485
 - CI/CD:
-  - GitLab, Docker
+  - GitLab, Docker, K8S, AWS
 - AI:
   - PyTorch, OpenCV, Gait Recognition, Face Recognition, Person Re-identification, Automatic number-plate recognition, Text-to-Speech, Speech-to-TextCNN, Transformer, YOLO, Optical Flow, GPT
 
@@ -66,6 +70,7 @@
 
 - 修車廠管理系統(WEB):
 
+  -
   - OS: Linux
   - Frontend: React.js, Material UI, OpenAPI
   - Backend: Gin(Golang)
@@ -144,65 +149,53 @@
 
 ### 利翔航太的工作經歷（2013-至今）：
 
-- 在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統. 我的主要擔任 Full-Stack Developer, 有時會寫 MCU 和 Android APP, 並建立以下幾個重要系統和應用程式:
+- 工作內容:
 
-- 車用 Wi-Fi 影音娛樂系統:
+- 在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統
+- 開發 Full-Stack 專案
+- 開發 MCU 和 Android APP 專案
+- 跨部門溝通, 經常需要跟電子, 機構, 產線構通
+- 後端工作, 建立 RESTful API, Database, Linux service, 連接 I/O...等
+- 前端工作, 建立 WEB UI
+- Linux system 開發, Linux Device Tree, U-boot, Buildroot, OpenWRT...等
+- Android test APP 開發, Java, Android Studio
+- MCU system 開發, C
 
-  - OS: OpenWRT, Ubuntu, BuildRoot
-  - Frontend: React.js, Ant Design Pro, RWD, HTML, CSS
-  - Backend: Gin(Golang), Nest.js(TypeScript), Codeigniter(PHP)
-  - Database: PostgreSQL, MySQL, Redis
-  - Service: DHCP, DNS, SAMBA, Apache, Nginx, VPN, NTP, iptables, Hostapd. SSH, Docker
-  - I/O: Wi-Fi, GPS, LTE, UART, Ethernet, RS485, M.2, PCI-E
-  - Language: TypeScript, Golang, Python, Shell Script, C, HTML, CSS, PHP
-  - Protocol: RESTful API, GraphQL, MQTT, TCP, UDP, RTSP
-  - Hardware: NXP Layerscape Arm Cortex-A72, Linux BSP
+- 以下幾個重要系統和應用程式:
 
-- 車用 Android 影音娛樂 APP:
+  - 車用 Wi-Fi 影音娛樂系統:
 
-  - Protocol: RESTful API, TCP, UDP
-  - Language: Java
-  - I/O: Wi-FI, BLE, Ethernet, GPS, G-sensor, Gyroscope, NFC, Video, Audio, Touch, Display
-  - Hardware: NXP I.MX
+    - OS: OpenWRT, Ubuntu, BuildRoot
+    - Frontend: React.js, Ant Design Pro, RWD, HTML, CSS
+    - Backend: Gin(Golang), Nest.js(TypeScript), Codeigniter(PHP)
+    - Database: PostgreSQL, MySQL, Redis
+    - Service: DHCP, DNS, SAMBA, Apache, Nginx, VPN, NTP, iptables, Hostapd. SSH, Docker
+    - I/O: Wi-Fi, GPS, LTE, UART, Ethernet, RS485, M.2, PCI-E
+    - Language: TypeScript, Golang, Python, Shell Script, C, HTML, CSS, PHP
+    - Protocol: RESTful API, GraphQL, MQTT, TCP, UDP, RTSP, WebSocket
+    - Hardware: NXP Layerscape Arm Cortex-A72, Linux BSP
 
-- 使用者互動顯示器:
+  - 車用 Android 影音娛樂 APP:
 
-  - OS: FreeRTOS, Linux
-  - I/O: I2C, SPI, MIPI DSI, UART, TFT LCD
-  - Language: C, Micropython, Python
-  - Libary: OpenCV
-  - Hardware: Orange Pi, Raspberry Pi Pico , STM32
+    - Protocol: RESTful API, TCP, UDP
+    - Language: Java
+    - I/O: Wi-FI, BLE, Ethernet, GPS, G-sensor, Gyroscope, NFC, Video, Audio, Touch, Display
+    - Hardware: NXP I.MX
 
-- 開發 Tool:
-  - Docker, Git, GitLab, VScode, Android studio
+  - 使用者互動顯示器:
 
-我在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統。
-我的主要工作是開發後端 API 和前端 GUI，並建立了幾個重要的應用：一個用於 WEB 使用者影音播放的 UI，另一個是用於 Linux Server 設定管理的 WEB UI。我使用 RESTful、GraphQL 和 WebSocket 來建立 API。
-此外，我還使用 React Native 開發了一個影音播放 APK，可以在 Android 顯示器上運行。我使用 Java 和 Android Studio 建立了一個 I/O 系統測試 APK，用於測試不同的硬體接口，如 4G LTE、GPS、Wi-Fi 6、Ethernet、I2C、Uart、USB、SD 卡、SATA 和 PCI-E。
-在軟體服務方面，我有豐富的經驗，包括 DHCP Server、Apache、DNS、NTP、VPN Client、Wvdial、Node.js、Nginx、FTP Server、Samba、Hostapd（Wi-Fi）、SSH 和 iptable 等。
-除了開發工作之外，我還負責撰寫自動化系統測試程式和自動化燒錄程式。我還有經驗在滿足客戶提出的軟體需求時編寫使用手冊和測試報告。
-另外，我也在 Android 顯示器上開發了 I/O 測試程式（APK），並使用 Windows 的 C#對 Android 上的 Wi-Fi、Bluetooth 4.0、Ethernet 和 Uart 等 I/O 進行測試。
-這些經歷使我具備了深入的車載和飛機娛樂系統開發知識和技能，並且熟悉各種常見的硬體接口和軟體服務。我能夠以高效的方式開發和管理整個系統，同時確保功能正常並符合客戶要求。
+    - OS: FreeRTOS, Linux
+    - I/O: I2C, SPI, MIPI DSI, UART, TFT LCD
+    - Language: C, Micropython, Python
+    - Libary: OpenCV
+    - Hardware: Orange Pi, Raspberry Pi Pico , STM32
 
-在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統. 我的主要工作是開發前後端的 RESTful API 和 Web page, 有時會寫 MCU 和 Android APP, 並建立以下幾個重要系統和應用程式:
-
-我在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統。我的主要工作是開發後端 API 和前端 GUI，並建立了幾個重要的應用：一個用於 WEB 使用者影音播放的 UI，另一個是用於 Linux Server 設定管理的 WEB UI。我使用 RESTful、GraphQL 和 WebSocket 來建立 API。
-
-此外，我還使用 React Native 開發了一個影音播放 APK，可以在 Android 顯示器上運行。我使用 Java 和 Android Studio 建立了一個 I/O 系統測試 APK，用於測試不同的硬體接口，如 4G LTE、GPS、Wi-Fi 6、Ethernet、I2C、Uart、USB、SD 卡、SATA 和 PCI-E。
-
-在軟體服務方面，我有豐富的經驗，包括 DHCP Server、Apache、DNS、NTP、VPN Client、Wvdial、Node.js、Nginx、FTP Server、Samba、Hostapd（Wi-Fi）、SSH 和 iptable 等。
-
-除了開發工作之外，我還負責撰寫自動化系統測試程式和自動化燒錄程式。我還有經驗在滿足客戶提出的軟體需求時編寫使用手冊和測試報告。
-
-另外，我也在 Android 顯示器上開發了 I/O 測試程式（APK），並使用 Windows 的 C#對 Android 上的 Wi-Fi、Bluetooth 4.0、Ethernet 和 Uart 等 I/O 進行測試。
-
-這些經歷使我具備了深入的車載和飛機娛樂系統開發知識和技能，並且熟悉各種常見的硬體接口和軟體服務。我能夠以高效的方式開發和管理整個系統，同時確保功能正常並符合客戶要求。
-
-在利翔航太，我擔任軟體工程師職務，主要開發車用娛樂系統。我在 NXP ARM Cortex-A53 Linux 平台上開發了 PHP RestFul API、Wi-Fi Server 的管理介面，以及自動化系統測試程式和自動化燒錄程式。我熟悉多種 I/O 介面，包括 4G LTE-A、GPS、Wi-Fi AC Wave 1、Ethernet、I2C、UART、WDT、RTC、USB、SD 卡和 SATA。我還負責配置和管理軟體服務，如 DHCP Server、Apache2、DNS、NTP、VPN Client、Wvdial、PHP、Nginx、FTP Server、Samba、Hostapd、SSH、iptables 和 UFW。我同時擁有撰寫英文使用手冊和測試報告的能力，並滿足客戶的軟體需求。
-
-此外，我還在 Android 顯示器上開發了 I/O 測試程式（APK），並使用 C#在 Windows 上對 Android 上的 Wi-Fi、Bluetooth 4.0、Ethernet 和 UART 等 I/O 進行測試。
+  - 開發 Tool:
+    - Docker, Git, GitLab, VScode, Android studio
 
 ### 世仰科技工作經歷（2011-2013）：
+
+- 在世仰科技擔任軟體工程師, 負責磁碟陣列產品的軟體設計, OS 是 Linux.
 
 - Specialty：
 
@@ -214,8 +207,6 @@
     - Shell Script
 
 我在世仰科技擔任軟體工程師職務，負責設計、製造和銷售磁碟陣列產品。我主要使用 C 語言開發命令行工具，使用 Javascript 開發動態圖形使用者介面(GUI)，並使用 Shell Script 編寫自動化程式。我在這段期間深入了解了 Linux 平台，並積極解決相關問題。由於公司轉型，軟體部門關閉後，我轉職到了利翔航太。
-
-在世仰科技擔任軟體工程師, 負責在磁碟陣列產品做軟體設計, 開發平台是 x86, OS 是 Linux.
 
 ### 研究所時期：
 
