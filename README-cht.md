@@ -3,7 +3,7 @@
 - Location： 竹北市
 - E-mail： jasonwu070721@gmail.com
 - 學歷：國立中央大學 - 資訊工程研究所
-- 個人網站： [Jason's Web](https://jasonwu070721.github.io/jasonwu-s-Web/)
+- 個人網站： [Jason's Web](https://jasonwu070721.github.io/jasonwu-s-web/)
 
 ---
 
@@ -37,10 +37,10 @@
 
 - Front End:
 
-  - Ant Design Pro,Figma, React, React Native, Video Streaming, Responsive Web Design, Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github)
+  - Ant Design Pro, React, Video Streaming, Responsive Web Design(RWD), Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github)
 
 - Framework:
-  - NestJS(Back End), Gin(Back End), Laravel(Back End), django(Back End),
+  - NestJS(Back End), Gin(Back End), Laravel(Back End), Django(Back End),
     Material-UI(Front End), React Native(Android),
     React Native Elements(Front End), videojs-player(Front End), OpenAPI
 - Android:
@@ -70,7 +70,7 @@
 
 ### Side project:
 
-- 修車廠管理網站(WEB):
+- 車輛維修廠管理網站(WEB):
 
   - 車輛維修或保養的管理系統
   - OS: Linux
@@ -84,13 +84,13 @@
   - Login: Google, Facebook, Line, Github
   - Cloud: AWS
 
-- 尋找工作代理人網站(WEB):
+- 呼叫臨時工網站(WEB):
 
-  - 一個可以幫你找工作代理人的網站
+  - 一個可以幫尋找臨時工的網站
   - OS: Linux
   - Frontend: React.js, Ant Design pro, OpenAPI
   - Backend: Laravel(PHP8)
-  - Database: mysql
+  - Database: MySQL
   - protocol: GraphQL
   - Language: TypeScript, PHP
   - Container: Docker
@@ -115,9 +115,9 @@
   - Language: TypeScript
   - Container: Docker
 
-- 搜尋相同檔案(WEB):
+- 搜尋和移除相同檔案程式:
 
-  - 可以搜尋相同檔案的平台
+  - 可以搜尋和移除相同檔案的程式
   - OS: Linux
   - Frontend: React.js, Material UI
   - Backend: Django(python)
@@ -126,17 +126,14 @@
   - Language: Python, TypeScript
   - Container: Docker
 
-- 學習英文單字(APP):
+- 學習英文 APP:
 
-  - 一個可以學習英文單字的 APP
+  - 一個可以學習英文的 APP
   - OS: Android
   - Framework: React Native
   - Backend: Django(python)
   - Language: TypeScript
   - AI: Android NNAPI, Text-to-Speech
-
-- 鍵盤練單字(Web):
-
   - 一個可用鍵盤練習單字的網站
   - OS: Linux
   - Frontend: React.js, Material UI
@@ -157,11 +154,11 @@
   - 在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統
   - 跨部門溝通, 經常需要跟電子, 機構, 產線構通
   - 開發 Full-Stack 專案
-  - 後端工作, 建立 RESTful API, Database, Linux service, I/O 連接...等
+  - 後端工作, 建立 RESTful API, Database, I/O 連接...等
   - 前端工作, 建立 WEB Page
-  - 建立 Linux OS, U-boot, Linux Device Tree, OpenWRT, Buildroot...等
+  - 建立 Linux OS, U-boot, Linux Device Tree, Linux Driver, Linux service, OpenWRT, Buildroot...等
   - Android APP, 開發產線用的 Android test APP, Wi-FI, BLE, GPS, G-sensor, Gyroscope, NFC, Touch, Flash, Display, Ethernet...等
-  - MCU system 開發, 開發使用者互動顯示器
+  - 開發使用者互動顯示器, FreeRTOS, UART, SPI, I2C, MIPI, LCD...等
 
 - 以下幾個重要系統和應用程式:
 
