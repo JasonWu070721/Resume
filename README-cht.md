@@ -3,7 +3,7 @@
 - Location： 竹北市
 - E-mail： jasonwu070721@gmail.com
 - 學歷：國立中央大學 - 資訊工程研究所
-- 個人網站： [Jason's Web](https://jasonwu070721.github.io/jasonwu-s-web/)
+- 個人網站： [Jason's Web](https://jasonwu070721.github.io/jasonwu-web/)
 
 ---
 
@@ -15,10 +15,6 @@
 
   - https://github.com/JasonWu070721
 
-- TOEIC:
-
-  - 750
-
 - SOC:
 
   - NXP Layerscape, Raspberry Pi, Raspberry Pi Pico, STM32F7, Rockchip RK
@@ -29,42 +25,38 @@
 
 - Programming Language:
 
-  - TypeScript, Python, Golang, C, PHP, Java, Linux shell script, Makefile
+  - TypeScript, Python, Golang, C, shell script, PHP, Java, Makefile
 
 - Back End:
 
-  - Gin, RestFul API, GraphQL, WebSocket, MQTT, PostgreSQL, SQLite, Redis, OpenAPI, Video Streaming
+  - Gin, NestJS, Laravel, RESTful API, GraphQL, WebSocket, MQTT, PostgreSQL, SQLite, Redis, OpenAPI, Video Streaming, Swagger
 
 - Front End:
 
-  - Ant Design Pro, React, Video Streaming, Responsive Web Design(RWD), Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github)
+  - Ant Design Pro, Material-UI, React, Video Streaming, Responsive Web Design(RWD), Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github), videojs-player, OpenAPI, HLS
 
-- Framework:
-  - NestJS(Back End), Gin(Back End), Laravel(Back End), Django(Back End),
-    Material-UI(Front End), React Native(Android),
-    React Native Elements(Front End), videojs-player(Front End), OpenAPI
 - Android:
 
-  - React Native, Android studio, G-sensor, Gyroscope, NFC, Bluetooth,
+  - Android studio, Wi-Fi, Bluetooth, G-sensor, Gyroscope, NFC, player, Touch, Display, Ethernet, GPS, Video, Audio, Touch
 
 - Messaging protocol
+
   - RESTful, GraphQL, WebSocket, MQTT
-- Video protocol
-  - RTMP, DASH, HLS, WebRTC
+
 - Database
 
   - MySQL, PostgreSQL, SQLite, Redis, Object-Relational Mapping(ORM)
 
 - Linux Service:
 
-  - DHCP Server, SAMBA, DNS, FTP, VPN, GPSd, Apache, Nginx, Firewall(iptables, ufw), Wi-Fi 6, LTE, Docker, rsync, Socket, Hostapd(Wi-Fi), SSH, Wvdial(LTE),MySQL, PostgreSQL, SQLite, Redis
+  - DHCP Server, SAMBA, DNS, FTP, VPN, GPSd, Apache, Nginx, Firewall(iptables, ufw), Wi-Fi 6, LTE, Docker, Socket, Hostapd(Wi-Fi), SSH, Wvdial(LTE), MySQL, PostgreSQL, SQLite, Redis
 
-- I/O:
-  - UART, SPI, I2C, 4G LTE, GPS, USB, GPIO, Ethernet, WDT, FLASH, SD/eMMC, PCIe, RS485
+- Linux I/O:
+  - UART, SPI, I2C, 4G LTE, GPS, USB, GPIO, Ethernet, WDT, FLASH, eMMC, PCIe, RS485
 - CI/CD:
-  - GitLab, Docker, K8S, AWS
+  - Git, GitLab, Docker, AWS
 - AI:
-  - PyTorch, OpenCV, Gait Recognition, Face Recognition, Person Re-identification, Automatic number-plate recognition, Text-to-Speech, Speech-to-TextCNN, Transformer, YOLO, Optical Flow, GPT
+  - PyTorch, OpenCV, Gait Recognition, Face Recognition, Person Re-identification, YOLO, Optical Flow
 
 ---
 
@@ -73,21 +65,18 @@
 - 車輛維修廠管理網站(WEB):
 
   - 車輛維修或保養的管理系統
-  - OS: Linux
   - Frontend: React.js, Material UI, OpenAPI
   - Backend: Gin(Golang)
   - Database: PostgreSQL, Redis
   - protocol: RESTful API
   - Language: TypeScript, Golang, Python, PHP
   - Container: Docker
-  - Payment Services: Line pay, ECPay
   - Login: Google, Facebook, Line, Github
   - Cloud: AWS
 
 - 呼叫臨時工網站(WEB):
 
   - 一個可以幫尋找臨時工的網站
-  - OS: Linux
   - Frontend: React.js, Ant Design pro, OpenAPI
   - Backend: Laravel(PHP8)
   - Database: MySQL
@@ -104,17 +93,6 @@
   - AI: Convolutional Neural Network, Vision Transformers, Optical flow, OpenPose, Binary Segmentation, triplet-loss
   - Language: Python
 
-- 個人密碼管理系統(WEB):
-
-  - 管理帳號密碼的網站
-  - OS: Linux
-  - Frontend: React.js, Material UI
-  - Backend: Nest.js(Node.js)
-  - Database: PostgreSQL, Redis
-  - protocol: RESTful API
-  - Language: TypeScript
-  - Container: Docker
-
 - 搜尋和移除相同檔案程式:
 
   - 可以搜尋和移除相同檔案的程式
@@ -126,22 +104,10 @@
   - Language: Python, TypeScript
   - Container: Docker
 
-- 學習英文 APP:
-
-  - 一個可以學習英文的 APP
-  - OS: Android
-  - Framework: React Native
-  - Backend: Django(python)
-  - Language: TypeScript
-  - AI: Android NNAPI, Text-to-Speech
-  - 一個可用鍵盤練習單字的網站
-  - OS: Linux
-  - Frontend: React.js, Material UI
-  - Language: TypeScript
-
 - 電子書擷取(QT5):
 
   - 可將線上電子書轉成 PDF
+  - 進度 70%
   - Framework: PyQT5
   - Language: Python
 
@@ -230,3 +196,9 @@
   - 科技公司網站
   - 網站管理系統
   - 學校教授官網網站
+
+# 簡歷
+
+- 我是吳郁樟 Jason，畢業於國立中央大學-資訊工程研究所，Full-Stack 經驗約 8 年，Android APP 經驗 2 年，AI 經驗 2 年和 MCU 經驗 1 年。曾參與航太和車用娛樂系統開發、Android 系統測試、使用者互動顯示器 MCU 開發和 AI 模型開發，熟悉 Linux 環境、Database、RESTful API 和 I/O 使用，並積極研究 AWS 雲端平台。
+
+- 我善於團隊合作，經常需要跨部門與電子、機構和產線溝通；職涯的下一步，期待能加入櫃公司，打造高質量的產品。
