@@ -1,24 +1,19 @@
 ﻿﻿# Jason Wu
 
-- Location： Zhubei City, Taiwan
+- Location： 竹北市
 - E-mail： jasonwu070721@gmail.com
-- Phone: +886 971773587
-- Education：National Central University - Department of Computer Science & Information Engineering
-- Personal website： [Jason's Web](https://jasonwu070721.github.io/jasonwu-s-Web/)
+- 學歷：國立中央大學 - 資訊工程研究所
+- 個人網站： [Jason's Web](https://jasonwu070721.github.io/jasonwu-web/)
 
-## Summary
+---
 
-Highly motivated and experienced Software Engineer with a passion for developing innovative solutions. Proficient in various programming languages and technologies, with a strong track record of delivering high-quality software products. Excellent cross-departmental communication skills and a collaborative team player.
+我是吳郁樟(Jason Wu), 一位經驗豐富的軟體工程師, 對於軟體開發工作充滿熱情, 善於跨部門溝通, 以下是我的工作經歷：
 
-## Skills
+### Specialty :
 
 - Side project(Github):
 
   - https://github.com/JasonWu070721
-
-- TOEIC:
-
-  - 750
 
 - SOC:
 
@@ -30,93 +25,77 @@ Highly motivated and experienced Software Engineer with a passion for developing
 
 - Programming Language:
 
-  - TypeScript, Python, Golang, C, PHP, Java, Linux shell script, Makefile
+  - TypeScript, Python, Golang, C, shell script, PHP, Java, Makefile
 
 - Back End:
 
-  - Gin, RestFul API, GraphQL, WebSocket, MQTT, PostgreSQL, SQLite, Redis, OpenAPI, Video Streaming
+  - Gin, NestJS, Laravel, RESTful API, GraphQL, WebSocket, MQTT, PostgreSQL, SQLite, Redis, OpenAPI, Video Streaming, Swagger
 
 - Front End:
 
-  - Ant Design Pro,Figma, React, React Native, Video Streaming, Responsive Web Design, Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github)
+  - Ant Design Pro, Material-UI, React, Video Streaming, Responsive Web Design(RWD), Multi-Language, OpenStreetMap, OAuth(Google, Facebook, Line, github), videojs-player, OpenAPI, HLS
 
-- Framework:
-  - NestJS(Back End), Gin(Back End), Laravel(Back End), django(Back End),
-    Material-UI(Front End), React Native(Android),
-    React Native Elements(Front End), videojs-player(Front End), OpenAPI
 - Android:
 
-  - React Native, Android studio, G-sensor, Gyroscope, NFC, Bluetooth,
+  - Android studio, Wi-Fi, Bluetooth, G-sensor, Gyroscope, NFC, player, Touch, Display, Ethernet, GPS, Video, Audio, Touch
 
 - Messaging protocol
+
   - RESTful, GraphQL, WebSocket, MQTT
-- Video protocol
-  - RTMP, DASH, HLS, WebRTC
+
 - Database
 
   - MySQL, PostgreSQL, SQLite, Redis, Object-Relational Mapping(ORM)
 
 - Linux Service:
 
-  - DHCP Server, SAMBA, DNS, FTP, VPN, GPSd, Apache, Nginx, Firewall(iptables, ufw), Wi-Fi 6, LTE, Docker, rsync, Socket, Hostapd(Wi-Fi), SSH, Wvdial(LTE),MySQL, PostgreSQL, SQLite, Redis
+  - DHCP Server, SAMBA, DNS, FTP, VPN, GPSd, Apache, Nginx, Firewall(iptables, ufw), Wi-Fi 6, LTE, Docker, Socket, Hostapd(Wi-Fi), SSH, Wvdial(LTE), MySQL, PostgreSQL, SQLite, Redis
 
-- I/O:
-  - UART, SPI, I2C, 4G LTE, GPS, USB, GPIO, Ethernet, WDT, FLASH, SD/eMMC, PCIe, RS485
+- Linux I/O:
+  - UART, SPI, I2C, 4G LTE, GPS, USB, GPIO, Ethernet, WDT, FLASH, eMMC, PCIe, RS485
 - CI/CD:
-  - GitLab, Docker, K8S, AWS
+  - Git, GitLab, Docker, AWS
 - AI:
-  - PyTorch, OpenCV, Gait Recognition, Face Recognition, Person Re-identification, Automatic number-plate recognition, Text-to-Speech, Speech-to-TextCNN, Transformer, YOLO, Optical Flow, GPT
+  - PyTorch, OpenCV, Gait Recognition, Face Recognition, Person Re-identification, YOLO, Optical Flow
 
-## Side project
+---
 
-- Car repair works(WEB):
+### Side project:
 
-  - A vehicle maintenance or servicing management system
-  - OS: Linux
+- 車輛維修廠管理網站(WEB):
+
+  - 車輛維修或保養的管理系統
   - Frontend: React.js, Material UI, OpenAPI
   - Backend: Gin(Golang)
   - Database: PostgreSQL, Redis
   - protocol: RESTful API
   - Language: TypeScript, Golang, Python, PHP
   - Container: Docker
-  - Payment Services: Line pay, ECPay
   - Login: Google, Facebook, Line, Github
   - Cloud: AWS
 
-- Job Agent Finder Website(WEB):
+- 呼叫臨時工網站(WEB):
 
-  - A website to find job agents to assist you in job hunting
-  - OS: Linux
+  - 一個可以幫尋找臨時工的網站
   - Frontend: React.js, Ant Design pro, OpenAPI
   - Backend: Laravel(PHP8)
-  - Database: mysql
+  - Database: MySQL
   - protocol: GraphQL
   - Language: TypeScript, PHP
   - Container: Docker
   - Cloud: AWS
 
-- Pedestrian Gait Recognition System(AI):
+- 行人步態辨識系統(AI):
 
-  - Pedestrian ID recognition through human pose estimation
+  - 透過人體姿態辨識, 辨識行人 ID
   - OS: Linux
   - Framework: Pytorch, OpenCV
   - AI: Convolutional Neural Network, Vision Transformers, Optical flow, OpenPose, Binary Segmentation, triplet-loss
   - Language: Python
 
-- Personal Password Management System(WEB):
+- 搜尋和移除相同檔案程式:
 
-  - A website for managing account passwords
-  - OS: Linux
-  - Frontend: React.js, Material UI
-  - Backend: Nest.js(Node.js)
-  - Database: PostgreSQL, Redis
-  - protocol: RESTful API
-  - Language: TypeScript
-  - Container: Docker
-
-- Search for Identical Files(WEB):
-
-  - A platform for searching identical files
+  - 可以搜尋和移除相同檔案的程式
   - OS: Linux
   - Frontend: React.js, Material UI
   - Backend: Django(python)
@@ -125,44 +104,31 @@ Highly motivated and experienced Software Engineer with a passion for developing
   - Language: Python, TypeScript
   - Container: Docker
 
-- Learn English Vocabulary(APP):
+- 電子書擷取(QT5):
 
-  - An app for learning English vocabulary
-  - OS: Android
-  - Framework: React Native
-  - Backend: Django(python)
-  - Language: TypeScript
-  - AI: Android NNAPI, Text-to-Speech
-
-- Keyboard Vocabulary Practice(Web):
-
-  - A website for practicing vocabulary with a functional keyboard
-  - OS: Linux
-  - Frontend: React.js, Material UI
-  - Language: TypeScript
-
-- E-book Extraction(QT5):
-
-  - Convert online eBooks to PDF file
+  - 可將線上電子書轉成 PDF
+  - 進度 70%
   - Framework: PyQT5
   - Language: Python
 
-## Work experience
+---
 
-### AeroVision Avionics Inc. / Software Engineer (2013/05 ~ Present)
+### 利翔航太的工作經歷（2013-至今）：
 
-- Developed entertainment systems for use in vehicles and aircraft on the ARM Linux platform.
-- Frequently collaborated and communicated with Electronics, Mechanics, and Production Line Construction departments.
-- Undertook Full-Stack projects, including both back-end and front-end development.
-- Back-end tasks involved creating RESTful APIs, managing databases, Linux services, I/O connections, and more.
-- Front-end tasks involved building WEB Pages.
-- Implemented and customized Linux OS, U-boot, Linux Device Tree, OpenWRT, Buildroot, and related components.
-- Developed Android applications, including Android test apps for production lines, integrating Wi-Fi, BLE, GPS, G-sensor, Gyroscope, NFC, Touch, Flash, Display, Ethernet, and other functionalities.
-- Engaged in MCU system development, creating user interaction displays.
+- 工作內容:
 
-- The following are several important systems and applications:
+  - 在 ARM Linux 平台上開發車載和飛機上使用的娛樂系統
+  - 跨部門溝通, 經常需要跟電子, 機構, 產線構通
+  - 開發 Full-Stack 專案
+  - 後端工作, 建立 RESTful API, Database, I/O 連接...等
+  - 前端工作, 建立 WEB Page
+  - 建立 Linux OS, U-boot, Linux Device Tree, Linux Driver, Linux service, OpenWRT, Buildroot...等
+  - Android APP, 開發產線用的 Android test APP, Wi-FI, BLE, GPS, G-sensor, Gyroscope, NFC, Touch, Flash, Display, Ethernet...等
+  - 開發使用者互動顯示器, FreeRTOS, UART, SPI, I2C, MIPI, LCD...等
 
-  - Car Wi-Fi Multimedia Entertainment System:
+- 以下幾個重要系統和應用程式:
+
+  - 車用 Wi-Fi 影音娛樂系統:
 
     - OS: OpenWRT, Ubuntu, BuildRoot
     - Frontend: React.js, Ant Design Pro, RWD, HTML, CSS
@@ -174,14 +140,14 @@ Highly motivated and experienced Software Engineer with a passion for developing
     - Protocol: RESTful API, GraphQL, MQTT, TCP, UDP, RTSP, WebSocket
     - Hardware: NXP Layerscape Arm Cortex-A72, Linux BSP
 
-  - Car Android Multimedia Entertainment App:
+  - 車用 Android 影音娛樂 APP:
 
     - Protocol: RESTful API, TCP, UDP
     - Language: Java
     - I/O: Wi-FI, BLE, Ethernet, GPS, G-sensor, Gyroscope, NFC, Video, Audio, Touch, Display
     - Hardware: NXP I.MX
 
-  - User Interaction Display:
+  - 使用者互動顯示器:
 
     - OS: FreeRTOS, Linux
     - I/O: I2C, SPI, MIPI DSI, UART, TFT LCD
@@ -189,16 +155,18 @@ Highly motivated and experienced Software Engineer with a passion for developing
     - Libary: OpenCV
     - Hardware: Orange Pi, Raspberry Pi Pico , STM32
 
-  - Develop Tool:
+  - 開發 Tool:
     - Docker, Git, GitLab, K8S, VScode, Android studio
 
-### Accusys, Inc. / Software Engineer（2011-2013）：
+### 世仰科技工作經歷（2011-2013）：
 
-- Employed as a Software Engineer at NAS Tech, responsible for software design of disk array products with Linux as the operating system.
-- Developed dynamic chart front-end web pages using Javascript.
-- Wrote automation scripts using Shell Script.
+- 工作內容:
 
-- Skills
+  - 在世仰科技擔任軟體工程師, 負責磁碟陣列產品的軟體設計, OS 是 Linux
+  - 使用 Javascript 開發動態圖前端 WEB page
+  - 使用 Shell Script 編寫自動化程式,
+
+- Specialty：
 
   - Front-end:
     - Javascript, HTML, CSS
@@ -207,27 +175,30 @@ Highly motivated and experienced Software Engineer with a passion for developing
   - Automated program:
     - Shell Script
 
-## Education
+### 研究所時期：
 
-### Graduate :
+- 中央大學資訊工程研究所畢業
+- 專案經驗
+  - 使用 STM32F7（ARM Cortex-M7）平台開發了低功耗無線藍牙攝影機
+  - 使用 Android 平台上實現了 Local Binary Patterns（LBP）臉部辨識應用程式
+  - 開發了釣魚病毒程式
+- 畢業論文
+  - 提出了解決步態辨識遇到動態背景時辨識率較低問題的方法
+  - 並實現了一個步態辨識系統, 包括行人偵測、行人追蹤、步態周期偵測、步態特徵擷取和步態辨識
+  - 使用了 OpenPose、Optical Flow、Convolutional Neural Networks（CNN）、Person Re-identification（ReID）和 OpenCV 等技術
 
-- Graduated from the Institute of Computer Science, National Central University.
-- Project Experience:
-  - Developed a low-power wireless Bluetooth camera using STM32F7 (ARM Cortex-M7) platform.
-  - Implemented a Local Binary Patterns (LBP) facial recognition application on the Android platform.
-  - Developed a fishing virus program.
-- Thesis:
-  - Proposed a method to address the issue of lower recognition rates in gait recognition when dealing with dynamic backgrounds.
-  - Developed a complete gait recognition system, including pedestrian detection, pedestrian tracking, gait cycle detection, gait feature extraction, and gait recognition.
-  - Leveraged technologies such as OpenPose, Optical Flow, Convolutional Neural Networks (CNN), Person Re-identification (ReID), and OpenCV.
+### 大學期間:
 
-### College:
+- 大學期間，我積極參與了多個 WEB 程式設計項目，並熟練掌握了 Javascript、PHP、SQL、HTML 等相關技術
+- 專案經驗:
+  - 租屋網站
+  - 問卷網站
+  - 科技公司網站
+  - 網站管理系統
+  - 學校教授官網網站
 
-- During my college years, I actively participated in multiple WEB programming projects and gained proficiency in various related technologies, including Javascript, PHP, SQL, HTML, and more.
+# 簡歷
 
-- Project Experience:
-  - Participated in the development of a rental property website.
-  - Contributed to the creation of a survey website.
-  - Worked on a technology company's website.
-  - Developed a website management system.
-  - Collaborated in the development of a university professor's official website.
+- 我是吳郁樟 Jason，畢業於國立中央大學-資訊工程研究所，Full-Stack 經驗約 8 年，Android APP 經驗 2 年，AI 經驗 2 年和 MCU 經驗 1 年。曾參與航太和車用娛樂系統開發、Android 系統測試、使用者互動顯示器 MCU 開發和 AI 模型開發，熟悉 Linux 環境、Database、RESTful API 和 I/O 使用，並積極研究 AWS 雲端平台。
+
+- 我善於團隊合作，經常需要跨部門與電子、機構和產線溝通；職涯的下一步，期待能加入櫃公司，打造高質量的產品。
